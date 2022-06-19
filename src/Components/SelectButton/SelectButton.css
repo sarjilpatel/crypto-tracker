@@ -1,0 +1,22 @@
+.selectButton {
+  border: 1px solid #4db5ff;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+  cursor: pointer;
+  width: 22%;
+  font-weight: 500;
+}
+
+.selectButton:hover {
+  background-color: #4db5ff;
+  color: black;
+}
+
+.selected {
+  background-color: #4db5ff;
+  color: black;
+  font-weight: 700;
+}

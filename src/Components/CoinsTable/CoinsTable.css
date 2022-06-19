@@ -1,0 +1,13 @@
+.row {
+  background-color: #293143;
+  cursor: pointer;
+  font-family: Montserrat;
+}
+
+.row:hover {
+  background-color: #394358;
+}
+
+.MuiPaginationItem-root {
+  color: #293143;
+}

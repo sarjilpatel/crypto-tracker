@@ -1,0 +1,7 @@
+.title {
+  flex: 1;
+  color: #4db5ff;
+  font-family: Montserrat;
+  font-weight: bold;
+  cursor: pointer;
+}
