@@ -94,6 +94,7 @@ const CoinInfo = ({ coin }) => {
                   },
                 },
               }}
+              width="calc(100vw - 300px)"
             />
 
             <div
